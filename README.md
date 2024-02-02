@@ -6,4 +6,5 @@
 
 - Study the figma design to determine how to set up the layout\
 - install vite and clean up files
+- set up
 - download assets needed for the design
